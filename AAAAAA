@@ -1,0 +1,145 @@
+local Library = loadstring(game: HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+local Window = Library.CreateLib("Money Simulator", "Ocean")
+-- Main
+local Main = Window:NewTab("Main")
+local MainSection = Main:NewSection("Main")
+
+MainSection: NewButton("Auto boost machines", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/sADw/main/sADw"))()
+end)
+
+MainSection: NewButton("Auto upgrade machines", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/xcv/main/dsa"))()
+end)
+
+MainSection: NewButton("Auto +1 machine", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/cvbhg/main/AWD"))()
+end)
+
+MainSection: NewButton("Auto prestige", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/fgxhh/132b559ef59401c224ff7d8a546f740e7cc4c314/dfgg"))()
+end)
+
+MainSection: NewButton("Auto buy first machine", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/sdF/main/dfgh"))()
+end)
+
+MainSection: NewButton("Auto buy factory walls", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/fy/main/asd"))()
+end)
+
+MainSection: NewButton("Auto buy factory lenght", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/dfg/main/sad"))()
+end)
+
+MainSection: NewButton("Auto buy factory floors", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/gf/main/dfs"))()
+end)
+
+MainSection: NewButton("Auto buy factory surface", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/hjku/main/sdfg"))()
+end)
+
+local MainSection = Main:NewSection("Upgrades")
+
+MainSection: NewButton("Auto Buy More Money", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/zfdg/main/ASD"))()
+end)
+
+MainSection: NewButton("Auto Buy More Money II", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/dcvds/main/xfcb"))()
+end)
+
+MainSection: NewButton("Auto Buy More Money III", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/dfa/main/ffg"))()
+end)
+
+MainSection: NewButton("Auto Buy Time Played Bonus", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/gdaSWF/main/gdf"))()
+end)
+
+MainSection: NewButton("Auto Buy XP Multiplier", "ButtonInfo", function()
+loadstring(game: HttpGet("https://github.com/OfficialFilipplays/zdfg/blob/main/sdgf"))()
+end)
+
+MainSection: NewButton("Auto Buy Click Machine Multiplier", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/sdFf/main/dfg"))()
+end)
+
+MainSection: NewButton("Auto Buy Daily Rewards", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/efd-/08ab152d75fc6e79c741a867d16c66b499fb1e85/ds"))()
+end)
+
+MainSection: NewButton("Auto Buy Factory Fence", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/aSF/main/DFD"))()
+end)
+
+MainSection: NewButton("Auto Buy More Generator Types", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/ASDdd/main/addd"))()
+end)
+
+MainSection: NewButton("Auto Buy Unlock City", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/dfgd/main/edfas"))()
+end)
+
+MainSection: NewButton("Auto Buy Unlock City Hall", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/aSDddd/main/asd"))()
+end)
+
+MainSection: NewButton("Auto Buy Gem Upgrades", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/cxf/main/saD"))()
+end)
+
+MainSection: NewButton("Auto Buy Gem Speed", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/sdfa/main/asd"))()
+end)
+
+MainSection: NewButton("Auto Buy Gems Multiplier", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/cc/main/fgh"))()
+end)
+
+MainSection: NewButton("Auto Buy Gem Area Background", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/ASDDddd/main/juiesdf"))()
+end)
+
+MainSection: NewButton("Auto Buy Unlock Runes", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/ASDddddd/main/zdfgng"))()
+end)
+
+MainSection: NewButton("Auto Buy Unlock Research", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/dscf-/main/asf"))()
+end)
+
+MainSection: NewButton("Auto Buy Faster Research", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/ASDDddd/main/juiesdf"))()
+end)
+
+MainSection: NewButton("Auto Buy Unlock Mines", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/szgdf/main/ASD"))()
+end)
+
+MainSection: NewButton("Auto Buy Ores Upgrade", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/sef-A/main/ad"))()
+end)
+
+MainSection: NewButton("Auto Buy More Stone", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/DSF/main/fa"))()
+end)
+
+MainSection: NewButton("Auto Buy More Coal, Iron, Copper", "ButtonInfo", function()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/OfficialFilipplays/dasf/main/asD"))()
+end)
+
+
+
+
+
+-- Player
+local Player = Window:NewTab("Player")
+
+local PlayerSection = Player:NewSection("Player")
+
+PlayerSection: NewButton("Infinite Yield", "ButtonInfo", function()
+loadstring(game: HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
